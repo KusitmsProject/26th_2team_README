@@ -193,6 +193,10 @@ _Music brings memories and the emotions_
 <br />
 <br />
 
+### 3. 데스크 리서치(크롤링)
+
+유튜브 플레이리스트로 유명한 '민플리, 때껄룩, 네고막을책임져도될까' 3
+
 - - -
 ## 📑 핵심 기능 정의
 
@@ -209,7 +213,7 @@ _Music brings memories and the emotions_
 
 <br />
 <br />
-## 📑 추후 확장 기
+## 📑 추후 확장 기능
 
 |기능 이름|액션|내용|
 | --- | --- | --- |
