@@ -154,3 +154,94 @@
 ### 📑 디자인 무드보드
 ![image](https://user-images.githubusercontent.com/62995958/195964616-25751240-6646-467c-ab55-6d15a64c46cc.png)
 
+### 📑 기술 스택
+#### 💻 BackEnd
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23ED8B00.svg?style=flat-square&logo=jpa&logoColor=white)
+![mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
+![docker](https://img.shields.io/badge/docker-007396?style=flat-square&logo=docker&logoColor=white)
+![gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+
+#### 💻 FrontEnd
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=flat-square&logo=Xcode&logoColor=white)
+#### 📡 배포
+<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+#### 👨‍👩‍👧‍👦 협업툴
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?style=flat-square&logo=AdobeIllustrator&logoColor=white)
+
+
+#### 📌 기술 스택 선정 이유
+- Back
+    - Docker와 Jenkins를 이용해 Springboot CI/CD를 자동화하였습니다.
+    - Github Webhook을 이용해 push시 서버 배포까지 자동화하였습니다.
+    - AWS EC2, RDS, S3를 이용해 서버, DB, 객체를 클라우드로 24시간 관리/배포가 가능하도록 하였습니다.
+    - aQuerytool을 사용해 DB 아키텍처 설계 후 개발을 진행할 예정입니다.
+    - Github를 통해 버전관리와 분산관리를 진행할 예정입니다.
+- Front
+    - 사용성을 고려하여 iOS 기반 어플리케이션 개발을 정했습니다.
+    - API 통신을 위해서는 URLSession, URLRequest를 사용하고 추가적으로 Alamofire 라이브러리를 통해 구현할 예정입니다.
+    - 빠르고 효율적인 개발을 위해 MVC 패턴을 적용할 예정입니다.
+- Design
+    - 백터이미지를 활용한 도형의 응용을 위해 Adobe Illustrator를 활용하여 로고와 이미지를 제작하였습니다.
+    - 자세한 화면정의가 가능하고 협업이 용이한 figma를 사용하였습니다.
+    - Blender를 활용하여 3d 디자인을 제작할 예정입니다.
+
+### 📑 커밋 컨벤션
+#### 📌 Branch
+- "main"에는 배포 했을 시에만(서버 연동), 모든 PR & Merge는 "develop" 에서 이루어진다.
+- "yejin" 등 자신의 이름의 브랜치를 따 개인 작업 진행 -> "develop" 브랜치로 PR
+- “develop” → "main" 의 Merge 작업은 한 사람이 진행한다.
+
+#### 📌 Commit message
+- "[기능] 제목 - 부연설명" 형식으로 이루어진다.
+- “[기능] 제목” → 필수
+- "- 부연설명" → 선택
+- 15자 이상 X
+
+#### 📌 [기능]
+- FEAT : 새로운 기능의 추가
+- ADD : 단순 코드 추가
+- FIX: 버그 수정
+- DOCS: 문서 수정
+- STYLE: 스타일 관련 기능(코드 포맷팅, 세미콜론 누락, 코드 자체의 변경이 없는 경우)
+- REFACTOR: 코드 리펙토링
+- TEST: 테스트 코트, 리펙토링 테스트 코드 추가
+- CHORE: 빌드 업무 수정, 패키지 매니저 수정(ex .gitignore 수정 같은 경우)
+
+
+### 📑 소프트웨어 아키텍처
+
+![image](https://user-images.githubusercontent.com/43109589/195964804-b3bf7897-bfd1-4b30-8c0d-574b6a084f28.png)
+
+
+### 📑 주요 기능 명세서
+
+| ID | 기능 | 우선순위 | 외부 액션 | 구성 항목 |
+| --- | --- | --- | --- | --- |
+| BR-001 | 회원가입 및 로그인 | High |  | 소셜여부는 추후 결정, 가입 시 입력할 초기 폼(양식) 받기 |
+| BR-002 | 글쓰기 | High | 사용자가 구성항목에 맞는 글을 작성 | 텍스트 : 노래에 담긴 이야기
+감정 : 태그 형식의 감정
+사진 : 노래에 기록하고 싶은 사진
+음악 : 음악
+함께한 사람 : 전화번호부 기반 친구 추가 기능으로 공개 전환한 기록들을 전송 및 저장
+기록들을 카테고리 별로 그룹화 |
+| BR-003 | 글쓰기 저장, 수정, 삭제 | High | 저장 버튼 | 앨범(음반) 형식으로 자신의 기록들을 실제 음반 형식으로 저장, 수정, 삭제 |
+| BR-004 | 저장한 레코드 보기 | High |  | 저정한 레코드를 캘린더등으로 확인 |
+| BR-005 | 푸시알림 - 트렌드 기반 | High | 확인 버튼 | 시간: 현재 나의 시간대를 기준으로, 사람들이 현재 가장 많이 듣는 음악을 추천 받을 수 있음. 그 음악에 대한 사람들의 기록을 보고 공유하고 공감할 수 있음.
+장소 : 현재 나의 장소를 기준으로, 사람들이 이 장소에서 가장 많이 들었던 음악을 추천 받을 수 있음. 그 음악에 대한 사람들의 기록을 보고 공유하고 공감할 수 있음. |
+| BR-006 | 푸시알림 - 히스토리 기반 | High | 확인 버튼 | 시간:나의 앨범에 저장된 기록 중
+- 현재 나의 시간대(아침, 오후, 저녁, 새벽 등)에 맞는 ‘들었던 음악’과 ‘함께 ‘기록’을 볼 수 있음.                    
+장소: 나의 앨범에 저장된 기록 중
+- 현재 나의 위치(기록으로부터 반경 1km 이내 혹은 저장한 장소)에 맞는 ‘들었던 음악’과 ‘함께 ‘기록’을 볼 수 있음. |
+| BR-007 | 탐색 - 현재 가장 많이 기록된 노래 | High |  | 현재 사람들이 가장 많이 듣고 공감하는 음악과 사연을 탐색하고 참여할 수 있도록 구성. |
+| BR-008 | 탐색 - 지금 가장 핫한 사연 | High |  | 가장 많은 클릭을 받은 음악과 사연을 탐색할 수 있도록 구성 |
