@@ -124,7 +124,7 @@ _Music brings memories and the emotions_
 💡 어쩌다 우연히 듣게 되는 상황을 푸시 알림을 통해 구현하여, 추억 회상을 도울 수 있도록 한다.
 
 
-#### 5. 사용자들은 노래를 들었을 때 ,직접 경험한 추억 뿐만 아니라 자신이 겪지 않은 추억도 자신이 경험한 거 처럼 느낀다.
+#### 5. 사용자들은 노래를 들었을 때 ,직접 경험한 추억 뿐만 아니라 자신이 겪지 않은 추억도 자신이 경험한 것 처럼 느낀다.
 
 💡 OST가 아닌 전혀 다른 장르의 노래를 들어도 영화나, 드라마에 대한 분위기를 상상하는 사람이 많다.
 
@@ -139,7 +139,7 @@ _Music brings memories and the emotions_
 
 ## 2. 데스크 리서치
 
-##### 2-1. 단순 스트리밍 서비스와의 차이점
+#### 2-1. 단순 스트리밍 서비스와의 차이점
 
 - 단순히 노래를 검색하고 기록하는 것이 아닌, **‘회상’을 할 수 있는 장치**이다.
 - 암묵적 기억이 불러져 오는 프로세스를 반영한 서비스다.
@@ -219,7 +219,9 @@ _Music brings memories and the emotions_
 <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 #### 👨‍👩‍👧‍👦 협업툴
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</a>
 #### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?style=flat-square&logo=AdobeIllustrator&logoColor=white)
@@ -273,22 +275,4 @@ _Music brings memories and the emotions_
 
 ### 📑 주요 기능 명세서
 
-| ID | 기능 | 우선순위 | 외부 액션 | 구성 항목 |
-| --- | --- | --- | --- | --- |
-| BR-001 | 회원가입 및 로그인 | High |  | 소셜여부는 추후 결정, 가입 시 입력할 초기 폼(양식) 받기 |
-| BR-002 | 글쓰기 | High | 사용자가 구성항목에 맞는 글을 작성 | 텍스트 : 노래에 담긴 이야기
-감정 : 태그 형식의 감정
-사진 : 노래에 기록하고 싶은 사진
-음악 : 음악
-함께한 사람 : 전화번호부 기반 친구 추가 기능으로 공개 전환한 기록들을 전송 및 저장
-기록들을 카테고리 별로 그룹화 |
-| BR-003 | 글쓰기 저장, 수정, 삭제 | High | 저장 버튼 | 앨범(음반) 형식으로 자신의 기록들을 실제 음반 형식으로 저장, 수정, 삭제 |
-| BR-004 | 저장한 레코드 보기 | High |  | 저정한 레코드를 캘린더등으로 확인 |
-| BR-005 | 푸시알림 - 트렌드 기반 | High | 확인 버튼 | 시간: 현재 나의 시간대를 기준으로, 사람들이 현재 가장 많이 듣는 음악을 추천 받을 수 있음. 그 음악에 대한 사람들의 기록을 보고 공유하고 공감할 수 있음.
-장소 : 현재 나의 장소를 기준으로, 사람들이 이 장소에서 가장 많이 들었던 음악을 추천 받을 수 있음. 그 음악에 대한 사람들의 기록을 보고 공유하고 공감할 수 있음. |
-| BR-006 | 푸시알림 - 히스토리 기반 | High | 확인 버튼 | 시간:나의 앨범에 저장된 기록 중
-- 현재 나의 시간대(아침, 오후, 저녁, 새벽 등)에 맞는 ‘들었던 음악’과 ‘함께 ‘기록’을 볼 수 있음.                    
-장소: 나의 앨범에 저장된 기록 중
-- 현재 나의 위치(기록으로부터 반경 1km 이내 혹은 저장한 장소)에 맞는 ‘들었던 음악’과 ‘함께 ‘기록’을 볼 수 있음. |
-| BR-007 | 탐색 - 현재 가장 많이 기록된 노래 | High |  | 현재 사람들이 가장 많이 듣고 공감하는 음악과 사연을 탐색하고 참여할 수 있도록 구성. |
-| BR-008 | 탐색 - 지금 가장 핫한 사연 | High |  | 가장 많은 클릭을 받은 음악과 사연을 탐색할 수 있도록 구성 |
+![image](https://user-images.githubusercontent.com/43109589/195965907-a446251d-53ed-457b-82a2-8d5f79462d09.png)
