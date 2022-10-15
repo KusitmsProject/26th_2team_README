@@ -19,15 +19,32 @@
 
 
 ### 📑 목적 및 필요성 :
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=flat-square&logo=Xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 
 ### 📑 기술 스택
+#### 💻 BackEnd
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23ED8B00.svg?style=flat-square&logo=jpa&logoColor=white)
+![mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
+![docker](https://img.shields.io/badge/docker-007396?style=flat-square&logo=docker&logoColor=white)
+![gradle](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+
+#### 💻 FrontEnd
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=flat-square&logo=Xcode&logoColor=white)
+#### 📡 배포
+<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+#### 👨‍👩‍👧‍👦 협업툴
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?style=flat-square&logo=AdobeIllustrator&logoColor=white)
+
 
 #### 기술 스택 선정 이유
 - Back
