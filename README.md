@@ -173,7 +173,7 @@ _Music brings memories and the emotions_
 ### 3. 데스크 리서치(2) : 유튜브 플레이리스트 채널 크롤링
 
 <!-- ![image](https://user-images.githubusercontent.com/62995958/195970735-a6016fc4-620b-4333-8231-13f6fbd4e780.png) -->
-<img src="https://user-images.githubusercontent.com/62995958/195970735-a6016fc4-620b-4333-8231-13f6fbd4e780.png" width=70% height=300>
+<img src="https://user-images.githubusercontent.com/62995958/195970735-a6016fc4-620b-4333-8231-13f6fbd4e780.png" width=70% height=500>
 
 > 상황 : 사용자들은 노래를 들었을 때 ,직접 경험한 추억 뿐만 아니라 자신이 겪지 않은 추억도 자신이 경험한 것 처럼 느낀다.
 
