@@ -1,6 +1,4 @@
 # _🎵Bring🎵_
-<br />
-<br />
 
 ## 📑 서비스 소개
 음악을 통해 감정을 기록하고 회상하는 기록 공유 서비스
@@ -165,9 +163,6 @@ _Music brings memories and the emotions_
 <br />
 
 - - -
-<br />
-<br />
-
 ## 📑 서비스 타겟층 분석
 
 > _음악을 통해 감정과 기억을 환기 시키고자 하는 회고 절정 시기의 1030세대_
@@ -183,9 +178,6 @@ _Music brings memories and the emotions_
 <br />
 
 - - -
-<br />
-<br />
-
 ## 📑 핵심 기능 정의
 
 
@@ -205,9 +197,6 @@ _Music brings memories and the emotions_
 <br />
 
 - - -
-<br />
-<br />
-
 ## 📑 Business Model 설계
 
 |구성 요소|내용|
@@ -221,18 +210,12 @@ _Music brings memories and the emotions_
 <br />
 
 - - -
-<br />
-<br />
-
 ## 📑 디자인 무드보드
 ![image](https://user-images.githubusercontent.com/62995958/195964616-25751240-6646-467c-ab55-6d15a64c46cc.png)
 <br />
 <br />
 
 - - -
-<br />
-<br />
-
 ## 📑 기술 스택
 #### 💻 BackEnd
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
@@ -304,11 +287,17 @@ _Music brings memories and the emotions_
 - TEST: 테스트 코트, 리펙토링 테스트 코드 추가
 - CHORE: 빌드 업무 수정, 패키지 매니저 수정(ex .gitignore 수정 같은 경우)
 
+<br />
+<br />
+
 - - -
 
 ## 📑 소프트웨어 아키텍처
 
 ![image](https://user-images.githubusercontent.com/43109589/195964804-b3bf7897-bfd1-4b30-8c0d-574b6a084f28.png)
+
+<br />
+<br />
 
 - - -
 
