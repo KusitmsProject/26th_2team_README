@@ -236,7 +236,8 @@ _Music brings memories and the emotions_
 
 - - -
 ## 📑 디자인 무드보드
-![image](https://user-images.githubusercontent.com/62995958/195964616-25751240-6646-467c-ab55-6d15a64c46cc.png)
+![image](https://user-images.githubusercontent.com/43109589/195970040-026fe7f1-81ba-477f-ba6f-b2f9c2a2039f.png)
+
 <br />
 <br />
 
@@ -328,4 +329,5 @@ _Music brings memories and the emotions_
 
 ## 📑 주요 기능 명세서
 
-![image](https://user-images.githubusercontent.com/43109589/195965907-a446251d-53ed-457b-82a2-8d5f79462d09.png)
+![image](https://user-images.githubusercontent.com/43109589/195969976-3358b785-01de-4b10-becb-9eecf1c1931c.png)
+
