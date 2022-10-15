@@ -56,12 +56,11 @@ _Music brings memories and the emotions_
 - 접근성이 높고, 친숙한 높은 음악 서비스를 통해서, 사용자들이 음악을 통해 자신도 몰랐던 감정과 기억을 회고한다.
 
 
-### 서비스 핵심 가치 : 
-![Slide 4_3 - 2](https://user-images.githubusercontent.com/62995958/195969735-6208f875-3a63-454d-ac64-c096361df335.png)
+<img src="https://user-images.githubusercontent.com/62995958/195969735-6208f875-3a63-454d-ac64-c096361df335.png" width="80%" height="450">
 
-✅ Reminder : 푸시알림을 통해 유저들의 retention을 가장 높일 수 있는 방식으로 서비스를 기획했습니다. </br>
-✅ Self-Understanding : 유저들이 서비스를 이용함으로써 음악을 통해 자신에 대한 이해를 높일 수 있도록 기능을 구성했습니다. </br>
-✅ Interaction : 음악을 통해 느끼는 감정이나 장소, 시간, 스토리 등을 커뮤니티를 통해 함께 공유하고 공감할 수 있도록 하고자 합니다. </br>
+✅ **Reminder** : 푸시알림을 통해 유저들의 retention을 가장 높일 수 있는 방식으로 서비스를 기획했습니다. </br>
+✅ **Self-Understanding** : 유저들이 서비스를 이용함으로써 음악을 통해 자신에 대한 이해를 높일 수 있도록 기능을 구성했습니다. </br>
+✅ **Interaction** : 음악을 통해 느끼는 감정이나 장소, 시간, 스토리 등을 커뮤니티를 통해 함께 공유하고 공감할 수 있도록 하고자 합니다. </br>
 
 
 ### 💻 5 Whys
@@ -118,7 +117,7 @@ _Music brings memories and the emotions_
 
 
 1-1. 서비스 수요도 검증
-![image](https://user-images.githubusercontent.com/62995958/195964018-b1de5471-b73e-4845-a2b0-1c8425f47ac0.png)
+<img src="https://user-images.githubusercontent.com/62995958/195964018-b1de5471-b73e-4845-a2b0-1c8425f47ac0.png" width=50% height=300>
 
 1-2. 제외 타겟층 중, 특이 케이스에서 기존에 생각했던 것보다 넓은 서비스 확장성을 기대할 수 있다.
 ![image](https://user-images.githubusercontent.com/62995958/195964047-cb8bc4ea-ae1f-4507-a94f-f03769fc2ddb.png)
@@ -170,7 +169,7 @@ _Music brings memories and the emotions_
 
 ### 3. 데스크 리서치(2) : 유튜브 플레이리스트 채널 크롤링
 
-![image](https://user-images.githubusercontent.com/62995958/195970735-a6016fc4-620b-4333-8231-13f6fbd4e780.png)
+<img src="https://user-images.githubusercontent.com/62995958/195970735-a6016fc4-620b-4333-8231-13f6fbd4e780.png" width=70% height=300>
 
 > 상황 : 사용자들은 노래를 들었을 때 ,직접 경험한 추억 뿐만 아니라 자신이 겪지 않은 추억도 자신이 경험한 것 처럼 느낀다.
 
@@ -193,7 +192,7 @@ _Music brings memories and the emotions_
 
 - - -
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/49095587/195971327-7ab79670-0247-42a0-af54-12d7a1978c18.png)
 
 ## 📑 서비스 타겟층 분석
 
@@ -252,7 +251,7 @@ _Music brings memories and the emotions_
 
 - - -
 ## 📑 디자인 무드보드
-![image](https://user-images.githubusercontent.com/43109589/195970040-026fe7f1-81ba-477f-ba6f-b2f9c2a2039f.png)
+<img src="https://user-images.githubusercontent.com/49095587/195971337-f179c4dc-c6f0-45e9-8885-f6c2175fec94.png" width=90% height=500>
 
 <br />
 <br />
