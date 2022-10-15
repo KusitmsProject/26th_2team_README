@@ -117,11 +117,12 @@ _Music brings memories and the emotions_
 
 💡 브링레코드(글쓰기)에 날씨, 사람, 장소/시간 요소를 추가해서 사용자의 감정을 기록하게 한다.
 
-#### 4. 어쩌다 우연히 들은 노래를 통해 시작되는 추억 회상**
-![image](https://user-images.githubusercontent.com/62995958/195964214-4ba906db-866d-4cc8-a8f0-91f058a0f2ff.png)
+
+#### 4. 어쩌다 우연히 들은 노래를 통해 시작되는 추억 회상
 ![image](https://user-images.githubusercontent.com/62995958/195964218-aea1d3f7-0e7e-4368-aacc-1ad44409d60b.png)
 
 💡 우연에 의존 되었던 노래의 회상을 [브링]서비스를 통해 필연으로 만들어 사용자의 회상을 이끌어낸다.
+
 
 #### 5. 사용자들은 노래를 들었을 때 ,직접 경험한 추억 뿐만 아니라 자신이 겪지 않은 추억도 자신이 경험한 거 처럼 느낀다.
 
